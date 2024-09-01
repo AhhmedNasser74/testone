@@ -1,0 +1,41 @@
+p{
+    color: aqua;
+    background-color: black;
+    background-repeat: repeat;
+    background-attachment:scroll ;
+    background-size: auto;
+    background-position: top right;
+
+}
+p{
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    text-decoration: underline;
+    letter-spacing: 1cm;
+    word-spacing: 2cm;
+}
+P{
+    height: auto;
+    width: min-content;
+    min-height: fit-content;
+    max-width: min-content;
+    text-underline-position: calc(text-decoration);
+}
+p{
+margin-bottom: 2 cm;
+padding-right: 2 cm;
+box-sizing: border-box;
+}
+p{
+    opacity: calc(letter-spacing);
+    z-index: auto;
+    object-fit: cover;
+    transition: all;
+    transform:none;
+}
+p{
+    border-radius: 2 cm;
+    outline: auto;
+}
